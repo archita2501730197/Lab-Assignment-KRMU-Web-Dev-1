@@ -32,9 +32,10 @@ The website adjusts for all screen sizes. On smaller screens, destination and pa
 
 # Screenshots
 
-![Mobile](/mobile.png)
-![Tablet](/tablet.png)
-![Desktop](/desktop.png)
+![Mobile](mobile.png)
+![Tablet](tablet.png)
+![Desktop](desktop.png)
 (I minimized screen size (50%) to capture screenshot of maximum viw of website. As per screen size (100% or 50%) it is responsive.)
 
-orignal view ![Orignal](/orignal.png)
+orignal view ![Orignal](orignal.png)
+
